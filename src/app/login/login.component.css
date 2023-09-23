@@ -1,0 +1,18 @@
+.card{
+  justify-content: center;
+  overflow: auto
+}
+
+.form {
+  min-width: 150px;
+  /* max-width: 500px; */
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.button{
+  margin: 2px;
+}

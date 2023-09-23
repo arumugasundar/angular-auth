@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": 19301,
+      "name": "aru",
+      "password": "password",
+      "email": "aru@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 30689,
+      "name": "sundar",
+      "password": "password",
+      "email": "sundar@gmail.com",
+      "gender": "male"
+    }
+  ]
+}
